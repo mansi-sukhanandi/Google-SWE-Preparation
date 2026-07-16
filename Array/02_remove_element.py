@@ -1,3 +1,6 @@
+# Problem: Remove Element (Easy)
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 def remove_element(nums , val):
     pointer = 0
     for num in nums :
