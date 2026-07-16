@@ -1,3 +1,6 @@
+# Problem: Max Consecutive Ones (Easy)
+# Time Complexity: O(n)
+# Space Complexity: O(1)
 def max_consecutive(num):
     current_count = 0
     max_count = 0
